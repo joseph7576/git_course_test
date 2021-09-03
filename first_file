@@ -1,5 +1,6 @@
 #! /bin/sh
 
 echo "Hello Git"
-echo "This repo is local!"
+echo "This repo is local." # this changed!
 
+echo ' I changed this file!'
